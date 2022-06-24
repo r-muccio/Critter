@@ -20,6 +20,12 @@ Clicking on any tweet brings the user to an enlarged version of that tweet.
 ![Large version of tweet](https://user-images.githubusercontent.com/91158694/175576375-aff1798e-2732-48b5-bb0b-e701162190f2.png)
 
 
+<h2>Like or unlike a meow</h2>
+
+The user can like or unlike any meow.
+![Like unlike](https://user-images.githubusercontent.com/91158694/175593541-dc66142a-824f-4a6c-9957-697fa05fdd45.png)
+
+
 <h2>Profile view</h2>
 
 Clicking on any user's name brings you to their profile page. Below their profile picture are their own meows, and any meows they have re-meowed. The current user can also access their profile page from the sidebar.
